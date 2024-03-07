@@ -1,0 +1,12 @@
+{
+  "name": "@hvquang98/tea-xyz-test",
+  "version": "1.0.0",
+  "description": "Quest for tea.xyz",
+  "main": "index.js",
+  "author": "@hvquang98",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/hvquang98/tea-xyz-testnet.git"
+  },
+  "license": "ISC"
+}
